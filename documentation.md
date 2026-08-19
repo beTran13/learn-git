@@ -1,6 +1,6 @@
 # Project Documentation
 
-## View
+## Overview
 
 Tài liệu này mô tả các thông tin cơ bản của dự án.
 
